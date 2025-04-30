@@ -23,7 +23,7 @@ This resource allows players to collect sand and smelt it into glass in FiveM us
 
 ## Installation
 1. Place the 'gg-sandjob' folder in your server's resources directory or in a [gg] map.
-2. Add `ensure sandglass` or `ensure [gg]` to your server.cfg
+2. Add `ensure gg-sandjob` or `ensure [gg]` to your server.cfg
 3. Add the following items to your ox_inventory/data/items.lua:
 4. Search or create your own item images!
 
