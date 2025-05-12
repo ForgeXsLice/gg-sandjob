@@ -22,14 +22,14 @@ This resource allows players to collect sand and smelt it into glass in FiveM us
 - PolyZone
 
 ## Installation
-1. Place the 'gg-sandjob' folder in your server's resources directory or in a [gg] map.
-2. Add `ensure gg-sandjob` or `ensure [gg]` to your server.cfg
+1. Place the 'fx-sandjob' folder in your server's resources directory or in a [fx] map.
+2. Add `ensure fx-sandjob` or `ensure [fx]` to your server.cfg
 3. Add the following items to your ox_inventory/data/items.lua:
 4. Search or create your own item images!
 
 ## Ox-Inventory items
 ```lua
-['shovel'] = { label = 'Shovel', weight = 1000, stack = false, close = true, description = 'A shovel for digging sand', client = { image = "shovel.png",} },
+['shovel'] = { label = 'Shovel', weight = 1000, stack = false, close = true, description = 'A shovel for difxing sand', client = { image = "shovel.png",} },
 ['sand'] = { label = 'Sand', weight = 500, stack = true, close = false, description = 'Sand collected from the beach', client = { image = "sand.png",} },
 ['glass'] = { label = 'Glass', weight = 300, stack = true, close = true, description = 'Smelted glass from sand', client = { image = "glass.png",} },
 ```
