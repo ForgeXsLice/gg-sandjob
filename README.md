@@ -29,7 +29,7 @@ This resource allows players to collect sand and smelt it into glass in FiveM us
 
 ## Ox-Inventory items
 ```lua
-['shovel'] = { label = 'Shovel', weight = 1000, stack = false, close = true, description = 'A shovel for difxing sand', client = { image = "shovel.png",} },
+['shovel'] = { label = 'Shovel', weight = 1000, stack = false, close = true, description = 'A shovel for digging sand', client = { image = "shovel.png",} },
 ['sand'] = { label = 'Sand', weight = 500, stack = true, close = false, description = 'Sand collected from the beach', client = { image = "sand.png",} },
 ['glass'] = { label = 'Glass', weight = 300, stack = true, close = true, description = 'Smelted glass from sand', client = { image = "glass.png",} },
 ```
