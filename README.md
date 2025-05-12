@@ -1,4 +1,4 @@
-# Sand to Glass Resource by GooGooScripts
+# Sand to Glass Resource by Team ForgeX
 
 ## Description
 This resource allows players to collect sand and smelt it into glass in FiveM using QBCore framework. It uses ox_lib, ox_target, ox_inventory, and PolyZone for modern, optimized functionality.
